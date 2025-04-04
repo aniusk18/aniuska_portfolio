@@ -17,7 +17,7 @@
           </div>
           <div className="flex items-center justify-center h-full">
             <p className="text-center mx-auto max-w-md">
-              Hola, me llamo Aniuska
+              Hola, mi nombre es Aniuska
               <br />
               Soy Ingeniero de sistemas profesionalmente orientada al Desarrollo y Diseño web, con más de 8 años de
               experiencia en desarrollo web y APIs.
